@@ -2,7 +2,7 @@
     "parameterSets": {
         "Australak": {
             "base_height": "1.2",
-            "base_width": "3",
+            "base_width": "6",
             "grid_rotation": "45",
             "grid_size": "[200, 200]",
             "grid_span": "15",
@@ -15,7 +15,7 @@
         },
         "Bordera": {
             "base_height": "1.2",
-            "base_width": "3",
+            "base_width": "6",
             "grid_rotation": "45",
             "grid_size": "[200, 200]",
             "grid_span": "15",
@@ -28,7 +28,7 @@
         },
         "Cat": {
             "base_height": "1.2",
-            "base_width": "3",
+            "base_width": "6",
             "grid_rotation": "45",
             "grid_size": "[200, 200]",
             "grid_span": "15",
@@ -41,7 +41,7 @@
         },
         "Fox": {
             "base_height": "1.2",
-            "base_width": "3",
+            "base_width": "6",
             "grid_rotation": "45",
             "grid_size": "[200, 200]",
             "grid_span": "15",
@@ -54,7 +54,7 @@
         },
         "Horse": {
             "base_height": "1.2",
-            "base_width": "3",
+            "base_width": "6",
             "grid_rotation": "45",
             "grid_size": "[200, 200]",
             "grid_span": "15",
@@ -67,7 +67,7 @@
         },
         "HorseHead": {
             "base_height": "1.2",
-            "base_width": "3",
+            "base_width": "6",
             "grid_rotation": "45",
             "grid_size": "[200, 200]",
             "grid_span": "15",
@@ -80,7 +80,7 @@
         },
         "HorseRunning": {
             "base_height": "1.2",
-            "base_width": "3",
+            "base_width": "6",
             "grid_rotation": "45",
             "grid_size": "[200, 200]",
             "grid_span": "15",
@@ -93,7 +93,7 @@
         },
         "HorseToy": {
             "base_height": "1.2",
-            "base_width": "3",
+            "base_width": "6",
             "grid_rotation": "45",
             "grid_size": "[200, 200]",
             "grid_span": "15",
@@ -106,7 +106,7 @@
         },
         "HowlingHead": {
             "base_height": "1.2",
-            "base_width": "3",
+            "base_width": "6",
             "grid_rotation": "45",
             "grid_size": "[200, 200]",
             "grid_span": "15",
@@ -119,7 +119,7 @@
         },
         "HowlingWolf": {
             "base_height": "1.2",
-            "base_width": "3",
+            "base_width": "6",
             "grid_rotation": "45",
             "grid_size": "[200, 200]",
             "grid_span": "15",
@@ -132,7 +132,7 @@
         },
         "Husky-1": {
             "base_height": "1.2",
-            "base_width": "3",
+            "base_width": "6",
             "grid_rotation": "45",
             "grid_size": "[200, 200]",
             "grid_span": "15",
@@ -145,7 +145,7 @@
         },
         "Husky-2": {
             "base_height": "1.2",
-            "base_width": "3",
+            "base_width": "6",
             "grid_rotation": "45",
             "grid_size": "[200, 200]",
             "grid_span": "15",
@@ -158,7 +158,7 @@
         },
         "Lab-1": {
             "base_height": "1.2",
-            "base_width": "3",
+            "base_width": "6",
             "grid_rotation": "45",
             "grid_size": "[200, 200]",
             "grid_span": "15",
@@ -171,7 +171,7 @@
         },
         "Lab-2": {
             "base_height": "1.2",
-            "base_width": "3",
+            "base_width": "6",
             "grid_rotation": "45",
             "grid_size": "[200, 200]",
             "grid_span": "15",
@@ -184,7 +184,7 @@
         },
         "Lorry": {
             "base_height": "1.2",
-            "base_width": "3",
+            "base_width": "6",
             "grid_rotation": "45",
             "grid_size": "[200, 200]",
             "grid_span": "15",
@@ -197,7 +197,7 @@
         },
         "Poodle": {
             "base_height": "1.2",
-            "base_width": "3",
+            "base_width": "6",
             "grid_rotation": "45",
             "grid_size": "[200, 200]",
             "grid_span": "15",
@@ -210,7 +210,7 @@
         },
         "Ridgeback-1": {
             "base_height": "1.2",
-            "base_width": "3",
+            "base_width": "6",
             "grid_rotation": "45",
             "grid_size": "[200, 200]",
             "grid_span": "15",
@@ -223,7 +223,7 @@
         },
         "Ridgeback-2": {
             "base_height": "1.2",
-            "base_width": "3",
+            "base_width": "6",
             "grid_rotation": "45",
             "grid_size": "[200, 200]",
             "grid_span": "15",
@@ -236,7 +236,7 @@
         },
         "Saluki-1": {
             "base_height": "1.2",
-            "base_width": "3",
+            "base_width": "6",
             "grid_rotation": "45",
             "grid_size": "[200, 200]",
             "grid_span": "15",
@@ -249,7 +249,7 @@
         },
         "Saluki-2": {
             "base_height": "1.2",
-            "base_width": "3",
+            "base_width": "6",
             "grid_rotation": "45",
             "grid_size": "[200, 200]",
             "grid_span": "15",
@@ -262,7 +262,7 @@
         },
         "Truck": {
             "base_height": "1.2",
-            "base_width": "3",
+            "base_width": "6",
             "grid_rotation": "45",
             "grid_size": "[200, 200]",
             "grid_span": "15",
@@ -275,7 +275,7 @@
         },
         "Wolfdog": {
             "base_height": "1.2",
-            "base_width": "3",
+            "base_width": "6",
             "grid_rotation": "45",
             "grid_size": "[200, 200]",
             "grid_span": "15",
@@ -288,7 +288,7 @@
         },
         "Zralok": {
             "base_height": "1.2",
-            "base_width": "3",
+            "base_width": "6",
             "grid_rotation": "45",
             "grid_size": "[200, 200]",
             "grid_span": "15",
@@ -301,7 +301,7 @@
         },
         "Paragraph": {
             "base_height": "1.2",
-            "base_width": "3",
+            "base_width": "6",
             "grid_rotation": "45",
             "grid_size": "[200, 200]",
             "grid_span": "25",
@@ -314,7 +314,7 @@
         },
         "DraftHorse": {
             "base_height": "1.2",
-            "base_width": "3",
+            "base_width": "6",
             "grid_rotation": "45",
             "grid_size": "[200, 200]",
             "grid_span": "15",
