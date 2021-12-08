@@ -311,6 +311,19 @@
             "total_height": "15",
             "use_grid": "true",
             "wall_thickness": "0.86"
+        },
+        "DraftHorse": {
+            "base_height": "1.2",
+            "base_width": "3",
+            "grid_rotation": "45",
+            "grid_size": "[200, 200]",
+            "grid_span": "15",
+            "grid_width": "3",
+            "image_file": "SVG\/DraftHorse.svg",
+            "mirror_options": "[1, 0, 0]",
+            "total_height": "15",
+            "use_grid": "false",
+            "wall_thickness": "0.86"
         }
     },
     "fileFormatVersion": "1"
